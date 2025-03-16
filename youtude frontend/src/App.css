@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.home-sideNavbar::-webkit-scrollbar {
+    width: 12px;
+}
+
+.homePage_options::-webkit-scrollbar {
+    width: 12px;
+}
